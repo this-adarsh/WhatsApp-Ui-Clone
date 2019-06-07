@@ -1,0 +1,49 @@
+
+.theme-primary-color{
+    background-color: #005E54;
+}
+.header-font{
+    font-size: x-large;
+    color: #fff !important;
+}
+.menu-font{
+    color: #fff !important;
+}
+.nav-tabs{
+    width: 100%;
+}
+.nav-item{
+    background-color: #005E54 !important;
+    width: 33.3333333333%;
+}
+.nav-item:hover{
+    border: 0px !important;
+}
+.nav-link.active{
+    background-color: #014941 !important;
+}
+.nav-link{
+    border: 0px !important;
+}
+img{
+    height: 70px;
+    width: 70px;
+}
+.notification-bgcolor{
+    background-color: #00B663;
+    border-radius: 50%;
+}
+.notification-fontcolor{
+    color: #00B663;
+}
+.ui-loader-header{
+    display: none;
+}
+.fa-phone-alt{
+    color:  #014941 !important;
+}
+#searchbox{
+    display: none;
+    height: 20px;
+    width: 100%;
+}
